@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Henny+Penny&family=Manrope&family=Parisienne&family=Rampart+One&family=Xanh+Mono&display=swap');
+
+body{
+    background-color: #caf0f8;
+    text-align: center;
+}
+
+
+h1{
+    font-family: 'Rampart One', cursive;
+    font-size: 50px;
+    color: #031926;
+}
+
+
+.serifa{
+    font-family: 'Cormorant SC', serif; 
+    font-size: 45px; 
+    color: #468189;
+}
+
+p.se{
+    font-family: 'Cormorant SC', serif;
+    font-size: 1.75em;
+}
+
+
+.normal{
+    font-family: 'Manrope', sans-serif;
+    font-size: 45px;
+    color: #468189;
+}
+
+p.nor{
+    font-family: 'Manrope', sans-serif;
+    font-size: 1.75em;
+}
+
+
+.fantasia{
+    font-family: 'Henny Penny', cursive;
+    font-size: 45px;
+    color: #468189;
+}
+
+p.fan{
+    font-family: 'Henny Penny', cursive;
+    font-size: 1.75em;
+}
+
+
+.cursiva{
+    font-family: 'Parisienne', cursive;
+    font-size: 45px;
+    color: #468189;
+}
+
+p.cur{
+    font-family: 'Parisienne', cursive;
+    font-size: 1.75em;
+}
+
+
+.monoespaço{
+    font-family: 'Xanh Mono', monospace;
+    font-size: 45px;
+    color: #468189;
+}
+
+p.mon{
+    font-family: 'Xanh Mono', monospace;
+    font-size: 1.75em;
+}
